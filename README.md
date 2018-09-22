@@ -1,6 +1,6 @@
 # code-maker-breaker
 
-This is a quiz to test my knowledge!m You have been tasked to make an app that will take text and encode it into a secret. Your app should also be able to decode secrets that are entered.
+This is a quiz to test my knowledge! I have been tasked to make an app that will take text and encode it into a secret. Your app should also be able to decode secrets that are entered.
 
 ## Screenshots
 <img width="575" alt="screen shot 2018-09-22 at 1 34 34 pm" src="https://user-images.githubusercontent.com/16019344/45920644-22d69100-be6d-11e8-9859-6f326cb48099.png">
