@@ -9,7 +9,7 @@ const output = '';
 
 const textOutput = () => {
     const inputText = document.getElementById('textAreaOne').value;
-    let inputWords = inputText.split(' ');
+    let inputWords = inputText.split('');
     for (let i = 0; i < inputWords.length; i++) {
         let output = inputWords[i];
     }
@@ -34,3 +34,4 @@ const secondOutput = () => {
 
 const secondSecretButton = document.getElementById('secret-button-two');
 secondSecretButton.addEventListener("click", secondOutput);
+
