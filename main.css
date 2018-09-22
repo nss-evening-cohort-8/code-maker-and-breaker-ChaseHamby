@@ -1,3 +1,15 @@
 body {
     background-color: whitesmoke;
 }
+
+.area-one {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+.area-two {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
